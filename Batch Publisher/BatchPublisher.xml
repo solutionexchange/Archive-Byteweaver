@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-16" standalone="yes"?>
+<PLUGINS>
+  <PLUGIN name="Content Class Based Batch Publisher" url="BatchPublisher/BatchPublisher.asp" compatibility="7.5.0.0" company="Byteweaver LLC" contact="Henry Lu" email="henry@byteweaver.com" telefon="646-807-8683" website="www.byteweaver.com">
+    <DESCRIPTIONS>
+      <DEU name="Batch Publisher"/>
+      <ENG name="Batch Publisher"/>
+    </DESCRIPTIONS>
+      <TARGETS>
+	<TARGET target="ioTreeApp4015"/>
+      </TARGETS>
+    <ICON source="BatchPublisher/icons/byteweaver.ico"/>
+    <OPENWINDOWPARAMETER features="toolbar=0,location=0,directories=0,status=0,menubar=0,scrollbars=1,resizable=1,width=950,height=590,screenX=100,screenY=100,left=100,top=100"/>
+  </PLUGIN>
+</PLUGINS>
